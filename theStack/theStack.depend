@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1454897958 source:c:\users\rohit\desktop\c++ programs\thestack\stackimplement.cpp
+	<iostream>
+	<cstdlib>
+	"stack.h"
+
+1454895251 c:\users\rohit\desktop\c++ programs\thestack\stack.h
+	<iostream>
+
+1454898270 source:c:\users\rohit\desktop\c++ programs\thestack\main.cpp
+	<iostream>
+	<cstdlib>
+	"stack.h"
+
